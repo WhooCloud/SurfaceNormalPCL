@@ -1,0 +1,4 @@
+/usr/app/Code/pcl_project/build/CMakeFiles/edit_cache.dir
+/usr/app/Code/pcl_project/build/CMakeFiles/rebuild_cache.dir
+/usr/app/Code/pcl_project/build/CMakeFiles/surface_normal.dir
+/usr/app/Code/pcl_project/build/CMakeFiles/visual.dir
